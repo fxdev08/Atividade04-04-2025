@@ -1,3 +1,5 @@
+//contribuidores: Emanoel,Felipe Xavier, Gilsimar, João Paulo e Raphael Alves
+
 var prompt = require("prompt-sync")();
 console.clear()
 
