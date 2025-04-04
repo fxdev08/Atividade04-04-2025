@@ -1,0 +1,1 @@
+const facil = numeroaleatorio(1, 10)
