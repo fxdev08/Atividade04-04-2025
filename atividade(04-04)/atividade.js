@@ -17,7 +17,7 @@ const medio = numeroaleatorio(1, 50)
 const dificil = numeroaleatorio(1, 100)
 let numero;
 
-console.log("1- Fácil\n2- Médio\n3- Difícil")
+console.log("1- Fácil (entre 1 e 10)\n2- Médio (entre 1 e 50)\n3- Difícil (entre 1 e 100)")
 let nivel = parseInt(prompt("Escolha uma opção: "))
 
 switch(nivel){
